@@ -33,7 +33,7 @@ const Login = async () => {
         </div>
       </form>
       <div className="mt-6 text-gray-500 text-sm">
-        Don't have an account?
+        {"Don't have an account?"}
         <Link href="/signup" className="text-white hover:underline ml-1">
           Sign Up Now
         </Link>
